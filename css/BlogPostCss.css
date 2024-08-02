@@ -1,4 +1,14 @@
 body {
     text-align: center;
-    color:red;
+    color:rgb(113, 42, 172);
+}
+.container {
+    border-radius: 10px;
+    border: 2px solid black;
+    width: 70%;
+    padding: 1em;
+    margin: 0 auto;
+}
+h1 {
+    font-size: 45px;
 }
