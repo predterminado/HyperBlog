@@ -12,3 +12,6 @@ body {
 h1 {
     font-size: 45px;
 }
+p {
+    font-family: courier;
+}
