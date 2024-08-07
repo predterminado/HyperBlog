@@ -6,6 +6,7 @@
     width: 70%;
     padding: 0;
     margin: 0 auto;
+    background-image: linear-gradient(white, rgb(125, 128, 125));
 }
 h1 {
     font-size: 45px;
@@ -34,4 +35,13 @@ h1 {
     font-family: "Lora", serif;
     font-weight: bold;
     
+}
+body {
+    background: black;
+}
+#logo {
+    height: 30px;
+    width: 80px;
+    filter: drop-shadow(0 0 10px rgba(1000, 1000, 1000, 1.8));
+    vertical-align: middle;
 }
