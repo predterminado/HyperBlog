@@ -6,6 +6,7 @@ Siento un muy buen avance por parte de mis skills como programador se que hasta 
 ![METAS](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL-F1DB8LvAYSSxPWiuJTZdngEsqsVtyvQRg&s "METAS")
 
 **Metas 2024 Dev**
+1.perfeccionamiento por sectores de mi ingles
 
 [TOCM]
 
