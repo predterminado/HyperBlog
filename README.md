@@ -7,7 +7,7 @@ Siento un muy buen avance por parte de mis skills como programador se que hasta 
 
 **Metas 2024 Dev**
 1.perfeccionamiento por sectores de mi ingles
-
+2.mejorar aspectos de mi en mi relacion y en mi yo interior
 [TOCM]
 
 [TOC]
