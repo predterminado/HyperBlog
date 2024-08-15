@@ -11,11 +11,4 @@ encuentro mi motivacion en mi presente y futuro
 
 es el planteaminto principal
 
-el orgullo me esta protegiendo o me esta dañando mas?
-
-depronto si
-<<<<<<< HEAD
-depronto no
-=======
-pero depronto no
->>>>>>> 232a93f (segunda respuesta)
+tengo que vencer al orgullo
